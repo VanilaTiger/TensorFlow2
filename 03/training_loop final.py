@@ -35,7 +35,7 @@ Y_scaled_testing = Y_scaler.transform(Y_testing)
 
 # Define model parameters
 learning_rate = 0.001
-training_epochs = 100
+training_epochs = 100 #number of iterations
 
 # Define how many inputs and outputs are in our neural network
 number_of_inputs = 9
